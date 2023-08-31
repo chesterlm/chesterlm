@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm cristian loaiza</h1>
 <h3 align="center">un desarrollador apasionado por el mundo de la informatica</h3>
 
 <h3 align="left">Connect with me:</h3>
