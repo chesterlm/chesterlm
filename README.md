@@ -17,7 +17,16 @@
 
 ¡Conéctate conmigo y démosle vida a ideas innovadoras! 👩‍💻🚀</h3>
 
-<p align="left">
+<h3 align="left">Skills:</h3>
+<p align="left"> 
+  - **Habilidades Técnicas:**
+    - Lenguajes: HTML, CSS, JavaScript
+    - Frameworks y Bibliotecas: React.js, Vue.js
+    - Herramientas de Desarrollo: Git, Webpack
+    - Diseño Responsivo: Bootstrap, Tailwind CSS
+    - Gestión de Estado: Redux, Vuex
+    - Backend: Node.js, Express, MySQL
+
   - **Habilidades Blandas:**
     1. Trabajo en equipo
     2. Liderazgo
