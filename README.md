@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm cristian loaiza</h1>
-<h3 align="center">🚀 ¡Hola, mundo! Soy [Nombre], un apasionado desarrollador de 22 años con un amor inquebrantable por convertir líneas de código en experiencias digitales sorprendentes.
+<h3 align="center">🚀 ¡Hola, mundo! Soy cristian, un apasionado desarrollador de 22 años con un amor inquebrantable por convertir líneas de código en experiencias digitales sorprendentes.
 
 💻 En mi viaje por el desarrollo web, he navegado por el vasto océano de tecnologías, desde HTML y CSS hasta las últimas y más emocionantes bibliotecas y frameworks como React y Vue.js. Mi objetivo es crear interfaces elegantes y funcionales que no solo sean visualmente atractivas, sino también intuitivas y eficientes.
 
