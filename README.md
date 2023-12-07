@@ -17,8 +17,10 @@
 
 ¡Conéctate conmigo y démosle vida a ideas innovadoras! 👩‍💻🚀</h3>
 
+<h3 align="left">Habilidades Blandas:</h3>
 <p align="left"> 
-  - **Habilidades Blandas:**
-    1. Trabajo en equipo
-    2. Liderazgo
+  <ul>
+    <li>Trabajo en equipo</li>
+    <li>Liderazgo</li>
+  </ul>
 </p>
